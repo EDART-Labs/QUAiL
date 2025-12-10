@@ -32,8 +32,8 @@
 | #8 | • Enhanced Edit Mode <br> • Copy of project feature <br> • SOC, Code reorganization <br> | • Prop Drilling in ProjectView.jsx <br> • Poor SOC of project hooks due to singular Hooks.jsx <br> |
 
 <br>
+
 The code files for different iterations of this project are available in the respective branches of this repository: [QUAiL - A Qualitative Data Analysis Application](https://github.com/saket-sontakke/QUAiL-A-Qualitative-Data-Analysis-Application)
-You can explore the code files for all project iterations within the **branches** of this repository: [View Repository](https://github.com/saket-sontakke/QUAiL-A-Qualitative-Data-Analysis-Application)  
 
 <br> 
 
