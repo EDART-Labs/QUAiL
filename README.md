@@ -54,9 +54,10 @@
 
 https://github.com/user-attachments/assets/9f23100a-66cd-41a0-ac45-2774db130d15
 
-<img width="960" height="549" alt="Screenshot 2025-12-05 154002" src="https://github.com/user-attachments/assets/4e8e1195-25cc-4cae-8b22-75234b07a94d" />
-
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/596af17d-ff1d-427e-85d7-7a0d12264a82" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b9665905-62f3-4bd6-a0be-949d366f5cb3" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/dbe048f6-6289-4060-ae37-d933877315b9" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/54655c9e-708d-40f5-a591-4e9d9f3399b2" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/55ff673f-1e51-4aae-9e03-4b711213ff41" />
 
 
 ## Projects
