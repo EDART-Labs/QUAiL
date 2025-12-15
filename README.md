@@ -44,6 +44,10 @@
 | **[QUAiL Beta v1.2.0](https://github.com/saket-sontakke/QUAiL-A-Qualitative-Data-Analysis-Application/blob/e4e20cbadbffb9d384811e91aa199dbb1b38d170/QUAiL%20Developer%20Guide%20%5BBeta%20v1.2.0%5D.pdf)** | *Intermediate Build* | - Fixed **Zombie User** issue.<br> - Added **Bring Your Own Key (BYOK)** model for transcription API.<br> - **UI** Updates.<br> - Upgraded verification emails. | N/A |
 | **[QUAiL Beta v1.3.0](https://github.com/saket-sontakke/QUAiL-A-Qualitative-Data-Analysis-Application/blob/d8d962e5fa4747af2d851995a87b4fddb10d84e8/QUAiL%20Developer%20Guide%20%5BBeta%20v1.3.0%5D.pdf)** | 15-Dec-25 | - Major Refactoring of monolithic **Hooks.jsx** into specialized domain hooks. <br> - Added **Optimistic UI.** <br> - **Atomic DB Operations:** Replaced full document overwrites with atomic MongoDB updates ($push/$set). | [Active](https://quail.edarts.online/) |
 
+<br>
+
+[!NOTE] Check out the source code for all iterations/versions in this repository: https://github.com/saket-sontakke/QUAiL-A-Qualitative-Data-Analysis-Application
+
 ---
 
 <br> 
