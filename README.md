@@ -46,7 +46,8 @@
 
 <br>
 
-[!NOTE] Check out the source code for all iterations/versions in this repository: https://github.com/saket-sontakke/QUAiL-A-Qualitative-Data-Analysis-Application
+> [!NOTE]
+> Check out the source code for all iterations/versions in this repository: https://github.com/saket-sontakke/QUAiL-A-Qualitative-Data-Analysis-Application
 
 ---
 
