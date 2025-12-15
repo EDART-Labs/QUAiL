@@ -40,9 +40,9 @@
 | **[QUAiL Beta v1.0.0](https://github.com/saket-sontakke/QUAiL-A-Qualitative-Data-Analysis-Application/blob/5c34a019e4446173838c321f152723b5dca7b6e5/QUAiL%20Developer%20Guide%20%5BBeta%20v1.0.0%5D.pdf)** | 17-Sep-25 | - Initial Release. | $\color{red}\text{Inactive}$ |
 | **[QUAiL Beta v1.0.1](https://github.com/saket-sontakke/QUAiL-A-Qualitative-Data-Analysis-Application/blob/5c34a019e4446173838c321f152723b5dca7b6e5/QUAiL%20Developer%20Guide%20%5BBeta%20v1.0.1%5D.pdf)** | *Intermediate Build* | - Added **Show/Hide password icon** for improved UX.<br> - Implemented **Email Verification** for Sign Up security.<br> - Home Page updated with **Contact Us info** and **Site Stats**. | N/A |
 | **[QUAiL Beta v1.1.0](https://github.com/saket-sontakke/QUAiL-A-Qualitative-Data-Analysis-Application/blob/5c34a019e4446173838c321f152723b5dca7b6e5/QUAiL%20Developer%20Guide%20%5BBeta%20v1.1.0%5D.pdf)** | 07-Dec-25 | - Added **Download Project (as .quail file)** feature.<br> - Updated Import Modal to support **.pdf** documents.<br> - Fixed the **"Shallow Copy"/"Broken Reference"** issue for project duplication. | $\color{red}\text{Inactive}$ |
-| **[QUAiL Beta v1.1.1](https://github.com/saket-sontakke/QUAiL-A-Qualitative-Data-Analysis-Application/blob/5c34a019e4446173838c321f152723b5dca7b6e5/QUAiL%20Developer%20Guide%20%5BBeta%20v1.1.1%5D.pdf)** | 07-Dec-25 | - Added **Manual SMTP** Configuration.<br> - Fixed **UI** issues. | [Active](https://quail.edarts.online/) |
-| **[QUAiL Beta v1.2.0](https://github.com/saket-sontakke/QUAiL-A-Qualitative-Data-Analysis-Application/blob/e4e20cbadbffb9d384811e91aa199dbb1b38d170/QUAiL%20Developer%20Guide%20%5BBeta%20v1.2.0%5D.pdf)** | Unreleased | - Fixed **Zombie User** issue.<br> - Added **Bring Your Own Key (BYOK)** model for transcription API.<br> - **UI** Updates.<br> - Upgraded verification emails. | $\color{yellow}\text{Unreleased}$ |
-
+| **[QUAiL Beta v1.1.1](https://github.com/saket-sontakke/QUAiL-A-Qualitative-Data-Analysis-Application/blob/5c34a019e4446173838c321f152723b5dca7b6e5/QUAiL%20Developer%20Guide%20%5BBeta%20v1.1.1%5D.pdf)** | 07-Dec-25 | - Added **Manual SMTP** Configuration.<br> - Fixed **UI** issues. | $\color{red}\text{Inactive}$ |
+| **[QUAiL Beta v1.2.0](https://github.com/saket-sontakke/QUAiL-A-Qualitative-Data-Analysis-Application/blob/e4e20cbadbffb9d384811e91aa199dbb1b38d170/QUAiL%20Developer%20Guide%20%5BBeta%20v1.2.0%5D.pdf)** | *Intermediate Build* | - Fixed **Zombie User** issue.<br> - Added **Bring Your Own Key (BYOK)** model for transcription API.<br> - **UI** Updates.<br> - Upgraded verification emails. | N/A |
+| **[QUAiL Beta v1.3.0](https://github.com/saket-sontakke/QUAiL-A-Qualitative-Data-Analysis-Application/blob/d8d962e5fa4747af2d851995a87b4fddb10d84e8/QUAiL%20Developer%20Guide%20%5BBeta%20v1.3.0%5D.pdf)** | 15-Dec-25 | - Major Refactoring of monolithic **Hooks.jsx** into specialized domain hooks. <br> - Added **Optimistic UI** <br> - **Atomic DB Operations:** Replaced full document overwrites with atomic MongoDB updates ($push/$set). | [Active](https://quail.edarts.online/) |
 
 ---
 
@@ -56,7 +56,7 @@ https://github.com/user-attachments/assets/9f23100a-66cd-41a0-ac45-2774db130d15
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/dbe048f6-6289-4060-ae37-d933877315b9" />
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/54655c9e-708d-40f5-a591-4e9d9f3399b2" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4195863e-6064-4869-bb00-921a7d1fd027" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f0a6a37d-f39c-4852-956d-0bfcb17ad72c" />
 
 ## Projects
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/69c41c89-1eec-4089-949a-79c91cb0c9d4" />
